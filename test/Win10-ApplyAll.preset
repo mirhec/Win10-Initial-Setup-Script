@@ -27,7 +27,7 @@ DisableAdminShares
 SetCurrentNetworkPrivate
 SetUnknownNetworksPrivate
 DisableNetDevicesAutoInst
-EnableCtrldFolderAccess
+DisableCtrldFolderAccess
 DisableFirewall
 DisableDefender
 DisableDefenderCloud
